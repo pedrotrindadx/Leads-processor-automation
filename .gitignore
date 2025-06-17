@@ -58,13 +58,19 @@ Thumbs.db
 # Screenshots and images (contain sensitive info)
 error_screenshot_*.png
 google_search_*.png
-search_*.png
+search_initiated_*.png
+search_results_*.png
 whatsapp_*.png
 
 # Personal messages and lead data (SENSITIVE)
 mensagem_*.html
 mensagem_*.txt
 leads.txt
+
+# Keep safe icons
+!icons/*.png
+!icons/*.ico
+!icons/*.jpeg
 
 # Distribution files
 *.zip
