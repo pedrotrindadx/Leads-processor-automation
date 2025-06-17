@@ -55,12 +55,22 @@ Thumbs.db
 # Log files
 *.log
 
-# Screenshots and images (you might want to keep some)
+# Screenshots and images (contain sensitive info)
 error_screenshot_*.png
 google_search_*.png
+search_*.png
+whatsapp_*.png
+
+# Personal messages and lead data (SENSITIVE)
+mensagem_*.html
+mensagem_*.txt
+leads.txt
 
 # Distribution files
 *.zip
 
 # Batch files (might contain sensitive info)
 *.bat
+
+# Log files with sensitive data
+*.log
