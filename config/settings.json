@@ -1,0 +1,24 @@
+{
+  "app_version": "1.0.0",
+  "last_opened": "2025-06-13T13:48:58.686961",
+  "file_paths": {
+    "leads_file": "C:\\Users\\Pedro\\Documents\\Leads Python Script\\leads.txt",
+    "last_export_dir": "C:\\Users\\Pedro\\Documents\\Leads Python Script\\data"
+  },
+  "processing": {
+    "headless_mode": true,
+    "auto_save_interval": 300,
+    "max_log_files": 10,
+    "max_history_entries": 100
+  },
+  "ui": {
+    "theme": "default",
+    "auto_switch_tabs": true,
+    "show_confirmations": true,
+    "animation_enabled": true
+  },
+  "whatsapp": {
+    "prefer_app_over_web": true,
+    "auto_advance_after_send": true
+  }
+}
